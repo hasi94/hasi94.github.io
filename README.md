@@ -1,2 +1,0 @@
-# hasithacharaka.github.io
-portfolio
