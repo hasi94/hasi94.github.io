@@ -10,7 +10,7 @@ html,
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 100%;
-  background: #FFf;
+  background: #2b2b2b;
 }
 
 body a {
@@ -1417,7 +1417,7 @@ ul.social-icons.two {
 }
 
 .mail_right {
-  background: #FDFFFE;
+  background: #000000;
   padding: 2em;
 }
 
@@ -1446,7 +1446,6 @@ span.border.two:after {
 /*-- footer --*/
 
 .footer {
-  background: url(../images/contact.jpeg) no-repeat center top;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -2422,3 +2421,4 @@ svg:not(:root) {
     padding-right: 15px;
   }
 }
+
