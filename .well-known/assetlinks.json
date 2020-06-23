@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.twa.hasithacharaka",
+    "sha256_cert_fingerprints":
+    ["A8:67:2B:B1:E9:A1:86:97:E6:EB:52:A8:11:BB:9C:E0:AE:A4:72:D8:91:03:D5:C7:82:04:12:82:5F:05:47:55"]
+  }
+}
